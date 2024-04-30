@@ -1,0 +1,12 @@
+gstreamer_python==0.0.3.dev18+gc8d4e04
+numpy~=1.24.4
+opencv_python~=4.7.0.72
+protobuf~=3.20.3
+pycairo==1.26.0
+PyGObject==3.42.2
+pytest~=8.1.1
+PyYAML~=6.0.1
+sahi~=0.11.15
+tensorflow~=2.13.1
+trafaret~=2.0.2
+ultralytics==8.1.47
